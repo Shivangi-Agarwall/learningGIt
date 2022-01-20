@@ -1,0 +1,13 @@
+git status
+git clone
+git fetch
+git pull
+git commit
+git pwd
+git checkout
+git mkdir
+git push
+git rebase
+git add
+git merge
+git cherry-pick
